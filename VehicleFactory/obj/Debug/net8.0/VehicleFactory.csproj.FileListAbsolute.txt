@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net8.0\VehicleFactory.exe
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net8.0\VehicleFactory.deps.json
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net8.0\VehicleFactory.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net8.0\VehicleFactory.dll
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\bin\Debug\net8.0\VehicleFactory.pdb
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\VehicleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\VehicleFactory.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\VehicleFactory.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\VehicleFactory.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\VehicleFactory.dll
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\refint\VehicleFactory.dll
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\VehicleFactory.pdb
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\VehicleFactory.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\VehicleFactory\VehicleFactory\obj\Debug\net8.0\ref\VehicleFactory.dll
